@@ -19,3 +19,10 @@
 ![React Router](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+
+
+## My GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NooranAlOmari&show_icons=true&theme=radical)
+
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooranAlOmari&layout=compact&theme=radical)

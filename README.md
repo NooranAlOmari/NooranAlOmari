@@ -20,17 +20,19 @@
 ![React Router](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## 📈 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NooranAlOmari&show_icons=true&theme=radical)
-## 🌍 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooranAlOmari&layout=compact&theme=radical&hide=html)
-
 ## 📞 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/) &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com) &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+## 📈 My GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NooranAlOmari&show_icons=true&theme=radical)
+## 🌍 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooranAlOmari&layout=compact&theme=radical&hide=html)
+
+
 
 
 
